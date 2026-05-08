@@ -1,8 +1,8 @@
 # LearnStream - Taller UX/UI
 
-Implementación en React + Vite + Bootstrap de los patrones **FilterBar** y **CardSystem**.
+Implementación en React, Vite y Bootstrap de los patrones **FilterBar** y **CardSystem**.
 
-## Requisitos cumplidos
+## Requisitos planteados
 
 - Arreglo JSON local con objetos de videos.
 - Cards generadas dinámicamente con `.map()`.
